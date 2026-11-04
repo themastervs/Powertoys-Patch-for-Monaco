@@ -1,4 +1,4 @@
-# PowerToys Patch for Monaco Preview Handler — v0.101.2712
+# PowerToys Patch for Monaco Preview Handler — Tested into v0.101.2712+ but almost sure working in your version
 
 Replace the PowerToys Monaco preview executable with a custom file viewer, bringing support for additional text formats, structured data, and binary file inspection to Windows File Explorer.
 
