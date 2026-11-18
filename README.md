@@ -126,11 +126,11 @@ Specialized binary readers inspect metadata and structures; archive contents are
 
 ## Project structure
 
-The repository contains multiple version directories:
+The repository contains:
 
-* `version1`
-* `version2`
-* `version3`
+* `code (main)`
+* `release (exe + info.txt)`
+
 
 Consult the contents of each directory to determine the implementation, installation procedure and differences between versions.
 
